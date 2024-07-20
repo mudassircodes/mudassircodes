@@ -1,4 +1,4 @@
-![logo](https://github.com/mudassircodes/mudassircodes/blob/main/Banners.jfif)
+![logo](https://github.com/mudassircodes/mudassircodes/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Mudassir</h1>
 <h3 align="center">Creative MERN Stack developer from Pakistan</h3>
 
